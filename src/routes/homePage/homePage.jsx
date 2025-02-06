@@ -14,6 +14,20 @@ function HomePage() {
             nobis inventore.
           </p>
           <SearchBar />
+          <div className="boxes">
+            <div className="box">
+              <h1>16+</h1>
+              <h2>Year of Experience</h2>
+            </div>
+            <div className="box">
+              <h1>200</h1>
+              <h2>Award Gained</h2>
+            </div>
+            <div className="box">
+              <h1>1200+</h1>
+              <h2>Property Ready</h2>
+            </div>
+          </div>
         </div>
       </div>
       <div className="imgContainer">
